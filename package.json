@@ -1,0 +1,23 @@
+{
+  "name": "emacscript6",
+  "version": "0.0.0",
+  "description": "a note during learing es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KristenXu/EMACScript6.git"
+  },
+  "keywords": [
+    "EMACScript6",
+    "Javascript"
+  ],
+  "author": "Chainn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristenXu/EMACScript6/issues"
+  },
+  "homepage": "https://github.com/KristenXu/EMACScript6#readme"
+}
