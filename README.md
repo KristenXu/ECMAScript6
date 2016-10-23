@@ -1,2 +1,2 @@
-# EMACScript6
+# ECMAScript6
 A note during learning es6
