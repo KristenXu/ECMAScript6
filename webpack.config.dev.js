@@ -47,6 +47,7 @@ module.exports = {
         historyApiFallback: true,
         progress: true,
         compress: true,
+        inline: false,
         port: 8084,
         stats: {
             modules: false,
