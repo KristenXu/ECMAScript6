@@ -9,7 +9,10 @@ class DestructuringAssignment extends React.Component {
     render () {
         let destructuring = new Destructuring('ES6');
         return (
-            <div className={styles.main_style}>{destructuring.getResult()}</div>
+            <div className={styles.main_style}>
+                <h2>destructuring</h2>
+                <p>{destructuring.getResult()}</p>
+            </div>
         )
     }
 }
